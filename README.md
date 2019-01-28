@@ -12,3 +12,7 @@ This Project created in Flutter.
 ## Framework
 
 i have your flutter_redux framework for this project.
+
+## Demo
+
+<img src="demo.gif" width="400">
